@@ -125,6 +125,19 @@ My hybrid profile combines engineering expertise with cutting-edge technical ski
 - **⚙️ Based on real engineering experience** with synthetic data for demonstration
 - **⚡ Live Demo**: [Water Quality Monitor](https://enithv-water-quality-monitor-app-mqmqsd.streamlit.app/)
 
+### 📊 [Potenciar Solidario - Financial Analysis Dashboard](https://github.com/EnithV/potenciar-solidario-financial-analysis)
+**Power BI dashboard for comprehensive NGO financial management and transparency**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+![IBM SkillsBuild](https://img.shields.io/badge/IBM_SkillsBuild-0F1419?style=flat-square&logo=ibm&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+- **🎓 IBM SkillsBuild Validation**: [Data Analytics Fundamentals Program](https://ibm-community.skillsbuild.org/guayerd-fundamentos-de-data-analytics)
+- **📈 Technology Evolution**: Migration from [Looker Studio](https://lookerstudio.google.com/reporting/b546b575-7c00-4c8b-9c6a-c08629d70ecf) to Power BI
+- **📊 6-year Financial Analysis**: 1,138+ transactions across revenue and expenses
+- **🔧 Advanced DAX**: Automated financial ratios and predictive modeling
+
 ### 🌐 [Professional Portfolio Website](https://github.com/EnithV/portfolio-website)
 **Responsive portfolio showcasing engineering and data science projects**
 
