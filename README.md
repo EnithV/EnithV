@@ -27,7 +27,7 @@ My hybrid profile combines engineering expertise with cutting-edge technical ski
 
 <div align="center">
 
-![Current Focus](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Building+ML+Models+for+Infrastructure;Developing+Ethical+AI+Systems;Creating+Data+Visualization+Dashboards;Automating+Compliance+Processes)
+![Current Focus](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Building+ML+Models+for+Infrastructure;Developing+Ethical+AI+Systems;Creating+Data+Visualization+Dashboards;Automating+Compliance+Processes)
 
 </div>
 
@@ -45,7 +45,7 @@ My hybrid profile combines engineering expertise with cutting-edge technical ski
 
 ### 💼 **Engineering Excellence meets Data Innovation**
 
-![Skills Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Civil+Engineer+%2B+Data+Scientist;Infrastructure+Compliance+Expert;AI+Content+Developer;Python+%26+Machine+Learning;Bilingual+Project+Coordinator)
+![Skills Animation](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=20&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Civil+Engineer+%2B+Data+Scientist;Infrastructure+Compliance+Expert;AI+Content+Developer;Python+%26+Machine+Learning;Bilingual+Project+Coordinator)
 
 </div>
 
