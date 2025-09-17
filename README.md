@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gicela Vargas
 
-> **Civil Engineer | Data Analyst | AI Content Writer for LLMs (LATAM)**
+> **Civil Engineer | Data & AI Specialist | Ethical LLM Developer**
 > 
 > *"Try Just One More Time"*
 
@@ -12,7 +12,7 @@ Hi, I'm Gicela — a Civil Engineer and Environmental Specialist with a strong b
 
 I've managed the planning, supervision, and auditing of various projects, including water treatment plants and rural aqueducts. Additionally, I've coordinated multidisciplinary teams and possess skills in data analysis and ethical AI content development with a focus on reducing biases in training data.
 
-My hybrid profile combines engineering expertise with cutting-edge technical skills, allowing me to bridge the gap between traditional infrastructure development and modern data-driven approaches.
+My hybrid profile combines **hands-on engineering expertise** with **cutting-edge data and AI skills**, allowing me to bridge the gap between traditional infrastructure development and modern data-driven approaches.
 
 ### 🎯 What I Do
 
@@ -27,7 +27,7 @@ My hybrid profile combines engineering expertise with cutting-edge technical ski
 
 <div align="center">
 
-![Current Focus](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=Building+ML+Models+for+Infrastructure;Developing+Ethical+AI+Systems;Creating+Data+Visualization+Dashboards;Automating+Compliance+Processes)
+![Current Focus](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=Building+ML+Models+for+Infrastructure;Developing+Ethical+AI+Systems;Creating+Data+Visualization+Dashboards;Automating+Compliance+Processes;Building+Full-Stack+Data+Applications)
 
 </div>
 
@@ -170,9 +170,22 @@ I'm always open to discussing **infrastructure innovation**, **data science appl
 
 ---
 
-## 🏷️ Key Areas
+## 🏷️ Expertise & Keywords
 
-`#DataAnalytics` `#MachineLearning` `#CivilEngineering` `#AI` `#LATAM` `#Python` `#Streamlit` `#PowerBI` `#Infrastructure` `#ComplianceAuditing` `#EthicalAI` `#WebDevelopment`
+### **🤖 AI & LLM Development**
+`#PromptEngineering` `#LLM` `#LargeLanguageModels` `#DatasetCuration` `#ResponsibleAI` `#AIEthics` `#ContentGeneration` `#BiasMitigation`
+
+### 📊 **Data Analytics & Engineering**
+`#DataAnalytics` `#DataVisualization` `#Python` `#Pandas` `#SQL` `#PowerBI` `#Streamlit` `#Plotly` `#DataEngineering`
+
+### 🏗️ **Civil Engineering & Infrastructure**
+`#CivilEngineering` `#Infrastructure` `#ComplianceAuditing` `#EnvironmentalEngineering` `#EIA` `#WaterTreatment` `#ProjectManagement` `#Construction`
+
+### 🌐 **Web & Application Development**
+`#WebDevelopment` `#JavaScript` `#React` `#FullStack` `#DataApps` `#Frontend`
+
+### 🔄 **Cross-Functional Skills**
+`#CrossFunctional` `#Bilingual` `#ProjectCoordination` `#LATAM` `#RemoteWork` `#GlobalCollaboration`
 
 ---
 
