@@ -197,6 +197,6 @@ I'm always open to discussing **infrastructure innovation**, **data science appl
 
 ---
 
-*© 2024 Gicela Vargas. Building the future, one project at a time.*
+*© 2025 Gicela Vargas. Building the future, one project at a time.*
 
 </div>
