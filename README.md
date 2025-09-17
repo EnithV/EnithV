@@ -163,10 +163,10 @@ My hybrid profile combines **hands-on engineering expertise** with **cutting-edg
 
 I'm always open to discussing **infrastructure innovation**, **data science applications in engineering**, or **ethical AI development**. Let's build the future together!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF6B6B?style=for-the-badge&logoColor=white)](https://enithv.github.io/portfolio-website/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gicelavargas/?locale=en_US)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnithV)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egicelav@gmail.com)
+<a href="https://enithv.github.io/portfolio-website/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/gicelavargas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/EnithV" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:egicelav@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 ---
 
