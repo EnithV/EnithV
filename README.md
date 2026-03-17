@@ -13,6 +13,14 @@ I've managed the planning, supervision, and auditing of various projects, includ
 
 My hybrid profile combines **hands-on engineering expertise** with **cutting-edge data and AI skills**, allowing me to bridge the gap between traditional infrastructure development and modern data-driven approaches.
 
+---
+
+## 💡 What Makes Me Different
+
+- 🏗️ **Civil Engineer + Data & AI** — I don't just analyze data; I understand the engineering context behind it.
+- 🌍 **Real-world infrastructure experience** — I've audited and supervised construction projects, not just studied them.
+- 🤖 **Ethical AI focus** — I actively work on reducing biases in AI training data.
+- 📊 **Data translator** — I turn technical data into clear decisions for teams and stakeholders.
 ### 🎯 What I Do
 
 - 🏗️ **Infrastructure Compliance**: Technical, administrative, and financial auditing of construction projects  
