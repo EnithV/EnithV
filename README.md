@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gicela Vargas
 
-> **Civil Engineer | Data & AI Specialist | Ethical LLM Developer**  
+> **Civil Engineer | Data & AI Specialist | Ethical LLM Trainer**  
 > *"Try Just One More Time"*
 
 ---
