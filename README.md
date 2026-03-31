@@ -94,9 +94,9 @@ HTML • CSS • JavaScript • React
 
 ### 🏗️ [Construction Compliance Analyzer](https://github.com/EnithV/construction-compliance-analyzer)
 
-- 🎯 85%+ ML accuracy  
+- 🎯 85%+ ML accuracy in compliance risk prediction  
 - 📊 Interactive dashboards  
-- 🇨🇴 Regulatory integration
+- 🇨🇴 Regulatory integration  
 
 ---
 
@@ -105,9 +105,10 @@ HTML • CSS • JavaScript • React
 - 📊 Full data pipeline (EDA → modeling)  
 - 🤖 Regression, classification, clustering  
 - 📈 Statistical analysis & insights  
-### ⚙️ AI Systems & Automation (Private Collaboration)
 
 ---
+
+### ⚙️ AI Systems & Automation (Private Collaboration)
 
 **Structured automation systems for real-world workflows**
 
@@ -132,15 +133,16 @@ HTML • CSS • JavaScript • React
 
 - 📊 Real-time monitoring  
 - 🎨 Interactive visuals  
-- ⚙️ Engineering logic
+- ⚙️ Engineering logic  
 
 ---
 
 ### 📊 [Financial Analysis Dashboard – NGO](https://github.com/EnithV/potenciar-solidario-financial-analysis)
 
 - 📈 Financial analysis & KPI tracking  
-- 📊 Interactive dashboards (Looker Studio) 
-- 💡 Donor and vendor intelligence
+- 📊 Interactive dashboards (Looker Studio)  
+- 💡 Donor and vendor intelligence  
+- 🧾 1,138+ transactions analyzed  
 
 ---
 
