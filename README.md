@@ -1,212 +1,163 @@
 # 👋 Hi, I'm Gicela Vargas
 
-> **Civil Engineer | Data & AI Specialist | Ethical LLM Trainer**  
-> *"Try Just One More Time"*
+> **Civil Engineer | Data & AI Specialist | Systems & Automation Developer**  
+> *Building data-driven systems that solve real-world problems*
 
 ---
 
-## 💨‍💻 About Me
+## 🧠 About Me
 
-Hi, I'm Gicela — a Civil Engineer and Environmental Specialist with a strong background in infrastructure projects, specifically in auditing the technical, administrative, and financial compliance in construction.
+I'm Gicela, a Civil Engineer with strong experience in infrastructure projects, now focused on building **data-driven and automated systems**.
 
-I've managed the planning, supervision, and auditing of various projects, including water treatment plants and rural aqueducts. Additionally, I've coordinated multidisciplinary teams and possess skills in data analysis and ethical AI content development with a focus on reducing biases in training data.
+My background includes technical, administrative, and financial auditing of construction projects such as water treatment plants and road infrastructure. This experience gave me a deep understanding of **complex real-world systems, decision-making, and process optimization**.
 
-My hybrid profile combines **hands-on engineering expertise** with **cutting-edge data and AI skills**, allowing me to bridge the gap between traditional infrastructure development and modern data-driven approaches.
+Today, I combine that foundation with skills in:
+
+- 📊 Data Analysis & Visualization  
+- 🤖 Machine Learning & AI  
+- ⚙️ Systems Design & Automation  
+
+I specialize in transforming real-world problems into **scalable, structured, and intelligent solutions**.
 
 ---
 
 ## 💡 What Makes Me Different
 
-- 🏗️ **Civil Engineer + Data & AI** — I don't just analyze data; I understand the engineering context behind it.
-- 🌍 **Real-world infrastructure experience** — I've audited and supervised construction projects, not just studied them.
-- 🤖 **Ethical AI focus** — I actively work on reducing biases in AI training data.
-- 📊 **Data translator** — I turn technical data into clear decisions for teams and stakeholders.
-### 🎯 What I Do
+- 🏗️ **Engineering + Technology Mindset**  
+  I don’t just code — I understand systems, constraints, and real-world impact.
 
-- 🏗️ **Infrastructure Compliance**: Technical, administrative, and financial auditing of construction projects  
-- 📊 **Data Analytics**: Transforming infrastructure data into actionable insights with Power BI and Python  
-- 🤖 **Ethical AI Development**: Creating bias-free training content for LLMs and improving AI systems  
-- 🌎 **Cross-Cultural Collaboration**: Seamless coordination across global teams (fluent English/Spanish)
+- 📊 **From Data to Decisions**  
+  I turn raw data into actionable insights for technical and non-technical stakeholders.
 
----
+- ⚙️ **Systems Thinking**  
+  I design structured solutions, not just scripts.
 
-## 🚀 What I'm Working On
-
-<div align="center">
-
-![Current Focus](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=Building+ML+Models+for+Infrastructure;Developing+Ethical+AI+Systems;Creating+Data+Visualization+Dashboards;Automating+Compliance+Processes;Building+Full-Stack+Data+Applications)
-
-</div>
-
-### 🎯 Current Focus Areas
-
-- 🤖 **Machine Learning for Infrastructure**: Risk prediction and compliance automation  
-- 📊 **Interactive Dashboards**: Real-time monitoring systems with Streamlit and Plotly  
-- 🔍 **AI Ethics**: Bias detection and mitigation in training datasets  
-- 🌐 **Full-Stack Development**: Building end-to-end data applications  
+- 🤖 **AI & Automation Experience**  
+  Experience building pipelines, validation systems, and structured workflows for LLM environments.
 
 ---
 
-## 🎯 Professional Experience Highlights
+## 🚀 Core Focus
 
-<div align="center">
-
-### 💼 **Engineering Excellence meets Data Innovation**
-
-![Skills Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Civil+Engineer+%2B+Data+Scientist;Infrastructure+Compliance+Expert;AI+Content+Developer;Python+%26+Machine+Learning;Bilingual+Project+Coordinator)
-
-</div>
-
-### 🏆 Key Achievements
-
-- 🏗️ **Infrastructure Auditing**: Technical, administrative, and financial compliance for construction projects  
-- 💧 **Water Treatment Plants**: Planning, supervision, and auditing of municipal water systems  
-- 🌱 **Environmental Impact**: Specialist in EIA for construction projects  
-- 👥 **Team Leadership**: Coordination of multidisciplinary engineering teams  
-- 📊 **Data-Driven Decisions**: Transforming infrastructure data into actionable insights  
-- 🔒 **Enterprise Development**: Active contributor to private repositories and proprietary systems  
+- ⚙️ Building **automation systems and data pipelines**  
+- 📊 Developing **interactive dashboards and analytics tools**  
+- 🤖 Applying **machine learning to real-world problems**  
+- 🧠 Designing **structured and scalable systems**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### **Data & Analytics**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+Python • Pandas • NumPy • Plotly • Power BI • Looker Studio  
 
 ### **Machine Learning & AI**
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![AI Ethics](https://img.shields.io/badge/AI_Ethics-FF6B00?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square)
+Scikit-learn • NLP • AI Evaluation • Bias Detection • Streamlit  
 
-### **Web Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+### **Systems & Development**
+Python • Modular Architecture • Data Pipelines • Automation Systems  
 
-### **Engineering & Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+### **Web**
+HTML • CSS • JavaScript • React (basic)  
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🏗️ [Construction Compliance Analyzer](https://github.com/EnithV/construction-compliance-analyzer)
-**Machine learning system for automated construction project compliance analysis**
+---
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+### ⚙️ AI Systems & Automation (Private Collaboration)
 
-- **🎯 85%+ ML accuracy** for compliance risk prediction  
-- **📊 Interactive dashboards** with comprehensive project analytics using synthetic data  
-- **🇨🇴 Colombian standards integration** (NSR-10, Resolution 2115/2007)  
-- **⚡ Live Demo**: https://enithv-construction-compliance-analy-compliance-analyzer-y1p8wg.streamlit.app/
+**Design and development of structured automation systems for real-world operational workflows**
+
+- 🧠 Contributed to the design of **modular tool-based architectures**  
+- ⚙️ Implemented **deterministic rules and workflow logic**  
+- 🔄 Structured **task-action-output pipelines** for system execution  
+- 🧩 Worked with **multi-step processes simulating real-world operations**  
+- 🤖 Supported **AI-related workflows including validation and structured outputs**
+
+> 🔒 *This work was developed as part of a private collaboration and cannot be publicly shared.*
 
 ---
 
-### 📊 [Aurelion Project – End-to-End Data & AI System](https://github.com/EnithV/PROYECTO-AURELION)
-**Comprehensive data analysis and machine learning system for retail decision-making**
+### 🏗️ [Construction Compliance Analyzer](https://github.com/EnithV/construction-compliance-analyzer)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Status](https://img.shields.io/badge/Project-Completed-success?style=flat-square)
+**Machine learning system for automated construction project compliance analysis**
 
-- **📊 End-to-end data pipeline**: EDA, normalization, feature engineering, and reporting  
-- **🤖 Machine learning models**: regression, classification, and clustering  
-- **📈 Advanced analytics**: inferential and prescriptive statistics, hypothesis testing  
-- **🧠 ML fundamentals demo** with interactive CLI applications  
-- **📄 Automated documentation** generated directly from data and models  
-- **🧩 Modular architecture** structured across 3 sprints with a unified program  
+- 🎯 85%+ ML accuracy for compliance risk prediction  
+- 📊 Interactive dashboards using Streamlit  
+- 🇨🇴 Colombian regulations integration (NSR-10, Resolution 2115/2007)  
+- ⚙️ End-to-end pipeline: data → model → visualization  
+
+---
+
+### 📊 [Aurelion – End-to-End Data System](https://github.com/EnithV/PROYECTO-AURELION)
+
+**Complete data analysis and machine learning system**
+
+- 📊 Full pipeline: EDA, preprocessing, modeling  
+- 🤖 Regression, classification, clustering models  
+- 📈 Statistical analysis and hypothesis testing  
+- 🧩 Modular architecture across multiple components  
 
 ---
 
 ### 🤖 [LLM LATAM Content Pipeline](https://github.com/EnithV/llm-latam-content-pipeline)
-**Automated content generation and quality assurance for ethical LLM training**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+**AI dataset generation and validation system**
 
-- **🔍 Automated quality assurance** for AI training datasets and bias detection  
-- **🗣️ Bilingual content generation** (Spanish/English)  
-- **📄 Sample Output**: https://github.com/EnithV/llm-latam-content-pipeline/blob/main/sample_output.json  
+- 🔍 Bias detection and quality validation  
+- 🌎 Bilingual content generation (EN/ES)  
+- 📦 Structured dataset outputs for training  
 
 ---
 
 ### 💧 [Water Quality Monitoring Dashboard](https://github.com/EnithV/water-quality-monitor)
+
 **Real-time monitoring system for water treatment plants**
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-- **📊 Real-time water quality metrics** with automated alerts  
-- **🎨 Interactive visualizations** for compliance tracking  
-- **⚙️ Based on real engineering experience** with synthetic data for demonstration  
-- **⚡ Live Demo**: https://enithv-water-quality-monitor-app-mqmqsd.streamlit.app/  
+- 📊 Real-time metrics with alerts  
+- 🎨 Interactive visualizations (Plotly + Streamlit)  
+- ⚙️ Based on real engineering workflows  
 
 ---
 
-### 📊 [Potenciar Solidario – Financial Analysis Dashboard](https://github.com/EnithV/potenciar-solidario-financial-analysis)
-**Power BI dashboard for comprehensive NGO financial management and transparency**
+### 📊 [Financial Analysis Dashboard – NGO](https://github.com/EnithV/potenciar-solidario-financial-analysis)
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
-![IBM SkillsBuild](https://img.shields.io/badge/IBM_SkillsBuild-0F1419?style=flat-square&logo=ibm&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+**Business Intelligence solution for financial transparency**
 
-- **🎓 IBM SkillsBuild Validation**  
-- **📈 Migration from Looker Studio to Power BI**  
-- **📊 6-year financial analysis** (1,138+ transactions)  
-- **🔧 Advanced DAX metrics and forecasting**  
+- 📈 6-year financial analysis (1,000+ records)  
+- 🔧 Advanced DAX metrics  
+- 📊 Migration from Looker Studio to Power BI  
 
 ---
 
-### 🌐 [Professional Portfolio Website](https://github.com/EnithV/portfolio-website)
-**Responsive portfolio showcasing engineering and data science projects**
+## 🌍 Experience Highlights
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-- **🎨 Modern, responsive design**  
-- **📱 Mobile-optimized**  
-- **🔗 Live site**: https://enithv.github.io/portfolio-website/  
+- 🏗️ Infrastructure auditing (technical, administrative, financial)  
+- 💧 Water treatment and public services systems  
+- 🌱 Environmental impact analysis  
+- 👥 Multidisciplinary team coordination  
+- 🤖 AI training and content evaluation (LLMs)  
+- ⚙️ Experience contributing to private system and automation projects  
 
 ---
 
-## 🌍 Languages & Collaboration
+## 🌎 Languages
 
-- 🇪🇸 Spanish: Native  
-- 🇺🇸 English: Fluent  
-- 🌎 LATAM & global remote collaboration  
-
----
-
-## 📫 Let's Connect!
-
-<a href="https://enithv.github.io/portfolio-website/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-FF6B6B?style=for-the-badge" /></a>
-<a href="https://www.linkedin.com/in/gicelavargas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:egicelav@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+- 🇪🇸 Spanish — Native  
+- 🇺🇸 English — Professional  
 
 ---
 
-<div align="center">
+## 📫 Let's Connect
 
-**"Bridging engineering expertise with cutting-edge technology to solve real-world challenges"**
+<a href="https://enithv.github.io/portfolio-website/" target="_blank">🌐 Portfolio</a>  
+<a href="https://www.linkedin.com/in/gicelavargas/" target="_blank">💼 LinkedIn</a>  
+📧 ingegvargas@gmail.com  
 
-*📍 Remote | Open to global collaboration*
+---
 
-</div>
+## ⚡ Final Note
+
+I build solutions that combine **engineering logic, data, and technology** to solve complex real-world problems.
