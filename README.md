@@ -1,48 +1,75 @@
 # 👋 Hi, I'm Gicela Vargas
 
 > **Civil Engineer | Data & AI Specialist | Systems & Automation Developer**  
-> *Building data-driven systems that solve real-world problems*
+> *"Try Just One More Time"*
 
 ---
 
-## 🧠 About Me
+## 💨‍💻 About Me
 
-I'm Gicela, a Civil Engineer with strong experience in infrastructure projects, now focused on building **data-driven and automated systems**.
+Hi, I'm Gicela — a Civil Engineer and Environmental Specialist with a strong background in infrastructure projects, specifically in auditing the technical, administrative, and financial compliance in construction.
 
-My background includes technical, administrative, and financial auditing of construction projects such as water treatment plants and road infrastructure. This experience gave me a deep understanding of **complex real-world systems, decision-making, and process optimization**.
+I've managed the planning, supervision, and auditing of various projects, including water treatment plants and rural aqueducts. Additionally, I've coordinated multidisciplinary teams and developed strong skills in **data analysis, AI systems, and process automation**.
 
-Today, I combine that foundation with skills in:
-
-- 📊 Data Analysis & Visualization  
-- 🤖 Machine Learning & AI  
-- ⚙️ Systems Design & Automation  
-
-I specialize in transforming real-world problems into **scalable, structured, and intelligent solutions**.
+My hybrid profile combines **hands-on engineering expertise** with **data, AI, and system design**, allowing me to build solutions that connect real-world infrastructure with modern technology.
 
 ---
 
 ## 💡 What Makes Me Different
 
-- 🏗️ **Engineering + Technology Mindset**  
-  I don’t just code — I understand systems, constraints, and real-world impact.
-
-- 📊 **From Data to Decisions**  
-  I turn raw data into actionable insights for technical and non-technical stakeholders.
-
-- ⚙️ **Systems Thinking**  
-  I design structured solutions, not just scripts.
-
-- 🤖 **AI & Automation Experience**  
-  Experience building pipelines, validation systems, and structured workflows for LLM environments.
+- 🏗️ **Civil Engineer + Systems Thinking** — I understand real-world constraints, not just code  
+- 🌍 **Real-world infrastructure experience** — I've worked on actual projects, not just academic cases  
+- ⚙️ **Automation & Systems Design** — Experience structuring workflows and modular systems  
+- 📊 **Data-driven mindset** — I transform complex data into decisions  
+- 🤖 **AI & LLM experience** — Focus on structured outputs and bias-aware systems  
 
 ---
 
-## 🚀 Core Focus
+### 🎯 What I Do
 
-- ⚙️ Building **automation systems and data pipelines**  
-- 📊 Developing **interactive dashboards and analytics tools**  
-- 🤖 Applying **machine learning to real-world problems**  
-- 🧠 Designing **structured and scalable systems**
+- 🏗️ **Infrastructure Compliance**  
+- 📊 **Data Analytics & Visualization**  
+- ⚙️ **Systems & Automation**  
+- 🤖 **AI Systems & Pipelines**  
+- 🌎 **Global Collaboration**  
+
+---
+
+## 🚀 What I'm Working On
+
+<div align="center">
+
+![Current Focus](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=Building+Automation+Systems;Developing+AI+Workflows;Creating+Data+Visualization+Dashboards;Designing+Scalable+Solutions;Building+Data+Driven+Applications)
+
+</div>
+
+### 🎯 Current Focus Areas
+
+- ⚙️ Automation Systems & Workflows  
+- 📊 Interactive Dashboards (Streamlit / BI tools)  
+- 🤖 AI Systems & Data Pipelines  
+- 🧠 Structured problem-solving  
+
+---
+
+## 🎯 Professional Experience Highlights
+
+<div align="center">
+
+### 💼 Engineering + Data + Systems
+
+![Skills Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Engineering+%2B+Data+%2B+Systems;Automation+%26+Workflow+Design;AI+Systems+%26+Pipelines;Python+%26+Data+Solutions;Global+Collaboration)
+
+</div>
+
+### 🏆 Key Achievements
+
+- 🏗️ Infrastructure auditing  
+- 💧 Water systems  
+- 🌱 Environmental analysis  
+- 👥 Team coordination  
+- 📊 Data-driven decisions  
+- ⚙️ Private system contributions  
 
 ---
 
@@ -58,7 +85,7 @@ Scikit-learn • NLP • AI Evaluation • Bias Detection • Streamlit
 Python • Modular Architecture • Data Pipelines • Automation Systems  
 
 ### **Web**
-HTML • CSS • JavaScript • React (basic)  
+HTML • CSS • JavaScript • React  
 
 ---
 
@@ -68,96 +95,73 @@ HTML • CSS • JavaScript • React (basic)
 
 ### ⚙️ AI Systems & Automation (Private Collaboration)
 
-**Design and development of structured automation systems for real-world operational workflows**
+**Structured automation systems for real-world workflows**
 
-- 🧠 Contributed to the design of **modular tool-based architectures**  
-- ⚙️ Implemented **deterministic rules and workflow logic**  
-- 🔄 Structured **task-action-output pipelines** for system execution  
-- 🧩 Worked with **multi-step processes simulating real-world operations**  
-- 🤖 Supported **AI-related workflows including validation and structured outputs**
+- 🧠 Modular architecture  
+- ⚙️ Workflow logic  
+- 🔄 Task pipelines  
+- 🤖 AI workflows  
 
-> 🔒 *This work was developed as part of a private collaboration and cannot be publicly shared.*
+> 🔒 Private collaboration — cannot be publicly shared
 
 ---
 
 ### 🏗️ [Construction Compliance Analyzer](https://github.com/EnithV/construction-compliance-analyzer)
 
-**Machine learning system for automated construction project compliance analysis**
-
-- 🎯 85%+ ML accuracy for compliance risk prediction  
-- 📊 Interactive dashboards using Streamlit  
-- 🇨🇴 Colombian regulations integration (NSR-10, Resolution 2115/2007)  
-- ⚙️ End-to-end pipeline: data → model → visualization  
-
----
-
-### 📊 [Aurelion – End-to-End Data System](https://github.com/EnithV/PROYECTO-AURELION)
-
-**Complete data analysis and machine learning system**
-
-- 📊 Full pipeline: EDA, preprocessing, modeling  
-- 🤖 Regression, classification, clustering models  
-- 📈 Statistical analysis and hypothesis testing  
-- 🧩 Modular architecture across multiple components  
+- 🎯 85%+ ML accuracy  
+- 📊 Interactive dashboards  
+- 🇨🇴 Regulatory integration  
 
 ---
 
 ### 🤖 [LLM LATAM Content Pipeline](https://github.com/EnithV/llm-latam-content-pipeline)
 
-**AI dataset generation and validation system**
-
-- 🔍 Bias detection and quality validation  
-- 🌎 Bilingual content generation (EN/ES)  
-- 📦 Structured dataset outputs for training  
+- 🔍 Bias detection  
+- 🌎 Bilingual content  
+- 📦 Structured datasets  
 
 ---
 
 ### 💧 [Water Quality Monitoring Dashboard](https://github.com/EnithV/water-quality-monitor)
 
-**Real-time monitoring system for water treatment plants**
-
-- 📊 Real-time metrics with alerts  
-- 🎨 Interactive visualizations (Plotly + Streamlit)  
-- ⚙️ Based on real engineering workflows  
+- 📊 Real-time monitoring  
+- 🎨 Interactive visuals  
+- ⚙️ Engineering logic  
 
 ---
 
 ### 📊 [Financial Analysis Dashboard – NGO](https://github.com/EnithV/potenciar-solidario-financial-analysis)
 
-**Business Intelligence solution for financial transparency**
-
-- 📈 6-year financial analysis (1,000+ records)  
-- 🔧 Advanced DAX metrics  
-- 📊 Migration from Looker Studio to Power BI  
+- 📈 Financial analysis  
+- 🔧 DAX metrics  
+- 📊 BI dashboards  
 
 ---
 
-## 🌍 Experience Highlights
+### 🌐 [Portfolio Website](https://github.com/EnithV/portfolio-website)
 
-- 🏗️ Infrastructure auditing (technical, administrative, financial)  
-- 💧 Water treatment and public services systems  
-- 🌱 Environmental impact analysis  
-- 👥 Multidisciplinary team coordination  
-- 🤖 AI training and content evaluation (LLMs)  
-- ⚙️ Experience contributing to private system and automation projects  
+- 🎨 Responsive design  
+- 📱 Mobile optimized  
 
 ---
 
-## 🌎 Languages
+## 🌍 Languages
 
 - 🇪🇸 Spanish — Native  
-- 🇺🇸 English — Professional  
+- 🇺🇸 English — Fluent  
 
 ---
 
 ## 📫 Let's Connect
 
-<a href="https://enithv.github.io/portfolio-website/" target="_blank">🌐 Portfolio</a>  
-<a href="https://www.linkedin.com/in/gicelavargas/" target="_blank">💼 LinkedIn</a>  
-📧 ingegvargas@gmail.com  
+<a href="https://enithv.github.io/portfolio-website/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-FF6B6B?style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/gicelavargas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:egicelav@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ---
 
-## ⚡ Final Note
+<div align="center">
 
-I build solutions that combine **engineering logic, data, and technology** to solve complex real-world problems.
+**"Bridging engineering expertise with data and technology to solve real-world challenges"**
+
+</div>
