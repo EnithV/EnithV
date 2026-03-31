@@ -145,7 +145,7 @@ HTML • CSS • JavaScript • React
 
 ---
 
-### 🌐 [Portfolio Website](https://enithv.github.io/portfolio-website/))
+### 🌐 [Portfolio Website](https://enithv.github.io/portfolio-website/)
 
 - 🎨 Responsive design  
 - 📱 Mobile optimized  
