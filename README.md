@@ -5,7 +5,7 @@
 
 ---
 
-## 💨‍💻 About Me
+## About Me
 
 Hi, I'm Gicela — a Civil Engineer and Environmental Specialist with a strong background in infrastructure projects, specifically in auditing the technical, administrative, and financial compliance in construction.
 
@@ -19,19 +19,18 @@ My hybrid profile combines **hands-on engineering expertise** with **data, AI, a
 
 - 🏗️ **Civil Engineer + Systems Thinking** — I understand real-world constraints, not just code  
 - 🌍 **Real-world infrastructure experience** — I've worked on actual projects, not just academic cases  
-- ⚙️ **Automation & Systems Design** — Experience structuring workflows and modular systems  
+- ⚙️ **Automation & Systems Design** — Experience structuring workflows, modular systems, and AI-driven processes  
 - 📊 **Data-driven mindset** — I transform complex data into decisions  
-- 🤖 **AI & LLM experience** — Focus on structured outputs and bias-aware systems  
 
 ---
 
 ### 🎯 What I Do
 
-- 🏗️ **Infrastructure Compliance**  
-- 📊 **Data Analytics & Visualization**  
-- ⚙️ **Systems & Automation**  
-- 🤖 **AI Systems & Pipelines**  
-- 🌎 **Global Collaboration**  
+- 🏗️ Infrastructure Compliance  
+- 📊 Data Analytics & Visualization  
+- ⚙️ Systems & Automation  
+- 🤖 AI Systems & Pipelines  
+- 🌎 Global Collaboration  
 
 ---
 
@@ -114,6 +113,14 @@ HTML • CSS • JavaScript • React
 
 ---
 
+### 📊 [Aurelion – End-to-End Data System](https://github.com/EnithV/PROYECTO-AURELION)
+
+- 📊 Full data pipeline (EDA → modeling)  
+- 🤖 Regression, classification, clustering  
+- 📈 Statistical analysis & insights  
+
+---
+
 ### 🤖 [LLM LATAM Content Pipeline](https://github.com/EnithV/llm-latam-content-pipeline)
 
 - 🔍 Bias detection  
@@ -156,7 +163,7 @@ HTML • CSS • JavaScript • React
 
 <a href="https://enithv.github.io/portfolio-website/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-FF6B6B?style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/gicelavargas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:egicelav@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:ingegvargas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ---
 
