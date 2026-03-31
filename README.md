@@ -132,15 +132,15 @@ HTML • CSS • JavaScript • React
 
 - 📊 Real-time monitoring  
 - 🎨 Interactive visuals  
-- ⚙️ Engineering logic  
+- ⚙️ Engineering logic
 
 ---
 
 ### 📊 [Financial Analysis Dashboard – NGO](https://github.com/EnithV/potenciar-solidario-financial-analysis)
 
-- 📈 Financial analysis  
-- 🔧 DAX metrics  
-- 📊 BI dashboards  
+- 📈 Financial analysis & KPI tracking  
+- 📊 Interactive dashboards (Looker Studio) 
+- 💡 Donor and vendor intelligence
 
 ---
 
