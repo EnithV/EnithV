@@ -92,7 +92,22 @@ HTML • CSS • JavaScript • React
 
 ---
 
+### 🏗️ [Construction Compliance Analyzer](https://github.com/EnithV/construction-compliance-analyzer)
+
+- 🎯 85%+ ML accuracy  
+- 📊 Interactive dashboards  
+- 🇨🇴 Regulatory integration
+
+---
+
+### 📊 [Aurelion – End-to-End Data System](https://github.com/EnithV/PROYECTO-AURELION)
+
+- 📊 Full data pipeline (EDA → modeling)  
+- 🤖 Regression, classification, clustering  
+- 📈 Statistical analysis & insights  
 ### ⚙️ AI Systems & Automation (Private Collaboration)
+
+---
 
 **Structured automation systems for real-world workflows**
 
@@ -102,22 +117,6 @@ HTML • CSS • JavaScript • React
 - 🤖 AI workflows  
 
 > 🔒 Private collaboration — cannot be publicly shared
-
----
-
-### 🏗️ [Construction Compliance Analyzer](https://github.com/EnithV/construction-compliance-analyzer)
-
-- 🎯 85%+ ML accuracy  
-- 📊 Interactive dashboards  
-- 🇨🇴 Regulatory integration  
-
----
-
-### 📊 [Aurelion – End-to-End Data System](https://github.com/EnithV/PROYECTO-AURELION)
-
-- 📊 Full data pipeline (EDA → modeling)  
-- 🤖 Regression, classification, clustering  
-- 📈 Statistical analysis & insights  
 
 ---
 
