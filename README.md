@@ -1,175 +1,109 @@
-# 👋 Hi, I'm Gicela Vargas
+# Gicela Vargas
 
-> **Civil Engineer | Data & AI Specialist | Systems & Automation Developer**  
+**Full‑Stack Java Developer | Civil Engineer | Data & AI Systems**
+
 > *"Try Just One More Time"*
 
 ---
 
-## About Me
+## Professional Profile
 
-Hi, I'm Gicela — a Civil Engineer and Environmental Specialist with a strong background in infrastructure projects, specifically in auditing the technical, administrative, and financial compliance in construction.
+Civil Engineer and Environmental Specialist currently expanding into **Full‑Stack Java Development** with Java, Spring Boot, REST APIs, SQL, and frontend technologies (HTML, CSS, JavaScript).
 
-I've managed the planning, supervision, and auditing of various projects, including water treatment plants and rural aqueducts. Additionally, I've coordinated multidisciplinary teams and developed strong skills in **data analysis, AI systems, and process automation**.
+My engineering background provides structured problem-solving, process auditing, and data-driven decision-making — skills directly transferable to software development.
 
-My hybrid profile combines **hands-on engineering expertise** with **data, AI, and system design**, allowing me to build solutions that connect real-world infrastructure with modern technology.
-
----
-
-## 💡 What Makes Me Different
-
-- 🏗️ **Civil Engineer + Systems Thinking** — I understand real-world constraints, not just code  
-- 🌍 **Real-world infrastructure experience** — I've worked on actual projects, not just academic cases  
-- ⚙️ **Automation & Systems Design** — Experience structuring workflows, modular systems, and AI-driven processes  
-- 📊 **Data-driven mindset** — I transform complex data into decisions  
+I build systems that connect real-world logic with modern technology.
 
 ---
 
-### 🎯 What I Do
+## Tech Stack
 
-- 🏗️ Infrastructure Compliance  
-- 📊 Data Analytics & Visualization  
-- ⚙️ Systems & Automation  
-- 🤖 AI Systems & Pipelines  
-- 🌎 Global Collaboration  
+### Backend
+**Java** • **Spring Boot** • **REST APIs** • **SQL**
 
----
+### Frontend
+**HTML** • **CSS** • **JavaScript**
 
-## 🚀 What I'm Working On
+### Data & AI
+Python • Pandas • Scikit-learn • Streamlit • Power BI • Looker Studio
 
-<div align="center">
-
-![Current Focus](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=Building+Automation+Systems;Developing+AI+Workflows;Creating+Data+Visualization+Dashboards;Designing+Scalable+Solutions;Building+Data+Driven+Applications)
-
-</div>
-
-### 🎯 Current Focus Areas
-
-- ⚙️ Automation Systems & Workflows  
-- 📊 Interactive Dashboards (Streamlit / BI tools)  
-- 🤖 AI Systems & Data Pipelines  
-- 🧠 Structured problem-solving  
+### Tools
+**Git** • **GitHub** • **VS Code**
 
 ---
 
-## 🎯 Professional Experience Highlights
+## Featured Projects
 
-<div align="center">
-
-### 💼 Engineering + Data + Systems
-
-![Skills Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Engineering+%2B+Data+%2B+Systems;Automation+%26+Workflow+Design;AI+Systems+%26+Pipelines;Python+%26+Data+Solutions;Global+Collaboration)
-
-</div>
-
-### 🏆 Key Achievements
-
-- 🏗️ Infrastructure auditing  
-- 💧 Water systems  
-- 🌱 Environmental analysis  
-- 👥 Team coordination  
-- 📊 Data-driven decisions  
-- ⚙️ Private system contributions  
+### 🔧 Construction Compliance Analyzer (Java version – in development)
+REST API for compliance risk prediction. Migrating ML logic from Python to Java/Spring Boot.
+> *Repo coming soon*
 
 ---
 
-## 🛠️ Tech Stack
+### 🏗️ Construction Compliance Analyzer (Python)
+[Repository](https://github.com/EnithV/construction-compliance-analyzer) | [Live Demo](https://enithv-construction-compliance-analy-compliance-analyzer-y1p8wg.streamlit.app/)
 
-### **Data & Analytics**
-Python • Pandas • NumPy • Plotly • Power BI • Looker Studio  
+ML-based compliance risk prediction with interactive dashboards. Aligned with Colombian regulations (NSR-10, Resolution 2115).
 
-### **Machine Learning & AI**
-Scikit-learn • NLP • AI Evaluation • Bias Detection • Streamlit  
-
-### **Systems & Development**
-Python • Modular Architecture • Data Pipelines • Automation Systems  
-
-### **Web**
-HTML • CSS • JavaScript • React  
+**Tech:** Python, Streamlit, Scikit-learn, Plotly
 
 ---
 
-## 🏆 Featured Projects
+### 📊 Aurelion – End-to-End Data System
+[Repository](https://github.com/EnithV/PROYECTO-AURELION)
+
+Complete data pipeline (EDA → modeling → insights). Regression, classification, clustering, and automated documentation.
+
+**Tech:** Python, Pandas, Scikit-learn, Statistical Analysis
 
 ---
 
-### 🏗️ [Construction Compliance Analyzer](https://github.com/EnithV/construction-compliance-analyzer)
+### 💧 Water Quality Monitoring Dashboard
+[Repository](https://github.com/EnithV/water-quality-monitor) | [Live Demo](https://enithv-water-quality-monitor-app-mqmqsd.streamlit.app/)
 
-- 🎯 85%+ ML accuracy in compliance risk prediction  
-- 📊 Interactive dashboards  
-- 🇨🇴 Regulatory integration  
+Real-time monitoring system for water treatment processes. Automated alerts and compliance tracking.
 
----
-
-### 📊 [Aurelion – End-to-End Data System](https://github.com/EnithV/PROYECTO-AURELION)
-
-- 📊 Full data pipeline (EDA → modeling)  
-- 🤖 Regression, classification, clustering  
-- 📈 Statistical analysis & insights  
+**Tech:** Python, Streamlit, Plotly
 
 ---
 
-### ⚙️ AI Systems & Automation (Private Collaboration)
+### 🤖 LLM LATAM Content Pipeline
+[Repository](https://github.com/EnithV/llm-latam-content-pipeline) | [Sample Output](https://github.com/EnithV/llm-latam-content-pipeline/blob/main/sample_output.json)
 
-**Structured automation systems for real-world workflows**
+Structured content generation and validation for ethical LLM training. Bilingual datasets (EN/ES) with bias detection.
 
-- 🧠 Modular architecture  
-- ⚙️ Workflow logic  
-- 🔄 Task pipelines  
-- 🤖 AI workflows  
-
-> 🔒 Private collaboration — cannot be publicly shared
+**Tech:** Python, NLP, Pandas
 
 ---
 
-### 🤖 [LLM LATAM Content Pipeline](https://github.com/EnithV/llm-latam-content-pipeline)
+### 📊 Potenciar Solidario – NGO Financial Dashboard
+[Repository](https://github.com/EnithV/potenciar-solidario-financial-analysis) | [Live Demo](https://lookerstudio.google.com/s/iESBg8dQb4w)
 
-- 🔍 Bias detection  
-- 🌎 Bilingual content  
-- 📦 Structured datasets  
+Financial analysis dashboard for a Latin American NGO. 1,138+ transactions analyzed.
 
----
-
-### 💧 [Water Quality Monitoring Dashboard](https://github.com/EnithV/water-quality-monitor)
-
-- 📊 Real-time monitoring  
-- 🎨 Interactive visuals  
-- ⚙️ Engineering logic  
+**Tech:** Looker Studio, Data Visualization, Financial Analytics
 
 ---
 
-### 📊 [Financial Analysis Dashboard – NGO](https://github.com/EnithV/potenciar-solidario-financial-analysis)
+## Currently Building
 
-- 📈 Financial analysis & KPI tracking  
-- 📊 Interactive dashboards (Looker Studio)  
-- 💡 Donor and vendor intelligence  
-- 🧾 1,138+ transactions analyzed  
-
----
-
-### 🌐 [Portfolio Website](https://enithv.github.io/portfolio-website/)
-
-- 🎨 Responsive design  
-- 📱 Mobile optimized  
+- ☕ **REST API with Java & Spring Boot** (compliance domain)
+- 🔗 Integration with SQL database
+- 📄 API documentation with Swagger/OpenAPI
 
 ---
 
-## 🌍 Languages
+## Languages
 
-- 🇪🇸 Spanish — Native  
-- 🇺🇸 English — Fluent  
-
----
-
-## 📫 Let's Connect
-
-<a href="https://enithv.github.io/portfolio-website/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-FF6B6B?style=for-the-badge" /></a>
-<a href="https://www.linkedin.com/in/gicelavargas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ingegvargas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+- **Spanish** — Native
+- **English** — Fluent
 
 ---
 
-<div align="center">
+## Connect
 
-**"Bridging engineering expertise with data and technology to solve real-world challenges"**
+[Portfolio](https://enithv.github.io/portfolio-website/) • [LinkedIn](https://www.linkedin.com/in/gicelavargas/) • [Email](mailto:ingegvargas@gmail.com)
 
-</div>
+---
+
+*Bridging engineering expertise with Java backend development to solve real-world challenges*
