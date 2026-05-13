@@ -75,20 +75,33 @@ I have participated in technology projects such as evaluating and optimizing LLM
 
 ## 🛠️ Tech Stack
 
-### **Backend**
-**Java** • **Spring Boot** • **REST APIs** • **SQL**
-
-### **Frontend**
-**HTML** • **CSS** • **JavaScript**
-
-### **Data & AI**
-Python • Pandas • Scikit-learn • NLP • Streamlit  
-
-### **BI & Visualization**
-Power BI • Looker Studio • Plotly  
-
-### **Tools**
-**Git** • **GitHub** • VS Code  
+<table>
+  <tr>
+    <td width="33%">
+      • Java<br>
+      • Spring Boot<br>
+      • REST APIs<br>
+      • SQL<br>
+      • HTML<br>
+      • CSS
+    </td>
+    <td width="33%">
+      • JavaScript<br>
+      • Python<br>
+      • Pandas<br>
+      • Scikit-learn<br>
+      • Streamlit
+    </td>
+    <td width="33%">
+      • Power BI<br>
+      • Looker Studio<br>
+      • Plotly<br>
+      • Git<br>
+      • GitHub<br>
+      • VS Code
+    </td>
+  </tr>
+</table>
 
 ---
 
