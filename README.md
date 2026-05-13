@@ -174,6 +174,6 @@ Power BI • Looker Studio • Plotly
 
 <div align="center">
 
-**"Bridging Java backend development with real‑world engineering to solve complex challenges"**
+**"Bridging engineering expertise with full‑stack Java development to solve real‑world challenges"**
 
 </div>
