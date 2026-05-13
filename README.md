@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gicela Vargas
+# Gicela Vargas
 
 > **Full‑Stack Java Developer | Civil Engineer | Data &AI Specialist**  
 > *"Try Just One More Time"*
@@ -7,9 +7,9 @@
 
 ## About Me
 
-Hi, I'm Gicela — a Civil Engineer and Environmental Specialist transitioning into **Full‑Stack Java Development**, with strong experience in infrastructure projects, technical compliance, and team coordination.
+Civil Engineer transitioning to software development, currently training as a **Full-Stack Java Developer**. I have experience in backend and frontend development, including building **REST APIs with Java and Spring Boot**, as well as developing interfaces with **JavaScript, HTML, and CSS**.
 
-I combine real‑world engineering expertise with **Java, Spring Boot, REST APIs, SQL, and frontend technologies (HTML, CSS, JavaScript)** to build structured, data‑driven systems that solve practical problems.
+I have participated in technology projects such as evaluating and optimizing LLMs, strengthening skills in logic, data validation, and complex problem-solving. I bring analytical thinking, the ability to structure solutions, and adaptability in tech environments.
 
 ---
 
