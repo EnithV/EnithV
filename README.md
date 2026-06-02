@@ -7,9 +7,7 @@
 
 ## About Me
 
-Civil Engineer transitioning to software development, currently training as a **Full-Stack Java Developer**. I have experience in backend and frontend development, including building **REST APIs with Java and Spring Boot**, as well as developing interfaces with **JavaScript, HTML, and CSS**.
-
-I have participated in technology projects such as evaluating and optimizing LLMs, strengthening skills in logic, data validation, and complex problem-solving. I bring analytical thinking, the ability to structure solutions, and adaptability in tech environments.
+Full-Stack Java Developer and Civil Engineering professional. I have knowledge in backend and frontend development, including building REST APIs with Java and Spring Boot, as well as developing interfaces with JavaScript, HTML, and CSS. I have participated in technology projects, such as evaluating and optimizing large language models (LLMs), strengthening skills in logic, data validation, and complex problem-solving. I bring analytical thinking, the ability to structure solutions, and adaptability in technology environments. 
 
 ---
 
