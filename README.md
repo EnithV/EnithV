@@ -36,7 +36,7 @@ Full-Stack Java Developer and Civil Engineering professional. I have knowledge i
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=Building+REST+APIs+with+Java+%26+Spring+Boot;Developing+Full‑Stack+Java+Applications;Creating+Interactive+Dashboards;Designing+Scalable+Backend+Solutions;Integrating+SQL+with+Java+Backends" alt="Current Focus" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=Building+REST+APIs+with+Java+%26+Spring+Boot;Developing+Full-Stack+Java+Applications;Creating+Interactive+Dashboards;Designing+Scalable+Backend+Solutions;Integrating+SQL+with+Java+Backends" alt="" />
 
 </div>
 
@@ -56,7 +56,7 @@ Full-Stack Java Developer and Civil Engineering professional. I have knowledge i
 
 ### 💼 Engineering + Data + Systems
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Boot;REST+APIs+%26+SQL;Automation+%26+Workflow+Design;Python+%26+Data+Solutions;Global+Collaboration" alt="Skills Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Boot;REST+APIs+%26+SQL;Automation+%26+Workflow+Design;Python+%26+Data+Solutions;Global+Collaboration" alt="" />
 
 </div>
 
