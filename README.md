@@ -81,6 +81,8 @@ I also work on data and AI projects: LLM evaluation pipelines, interactive dashb
       • Java<br>
       • Spring Boot<br>
       • REST APIs<br>
+      • JWT<br>
+      • PostgreSQL<br>
       • SQL<br>
       • HTML<br>
       • CSS
@@ -115,7 +117,7 @@ I also work on data and AI projects: LLM evaluation pipelines, interactive dashb
 
 - 🎯 Reservation management: online booking, service catalog & role-based admin  
 - ☕ **Java 17** · Spring Boot REST API (JWT, JPA, PostgreSQL/Supabase)  
-- 🌐 Modular frontend (JavaScript, Bootstrap 5) — [Frontend](https://github.com/EnithV/stylefactory) · [API](https://github.com/EnithV/stylefactory-backend) · [Live demo](https://enithv.github.io/stylefactory/)
+- 🌐 Modular frontend (JavaScript, Bootstrap 5) — [Frontend](https://github.com/EnithV/stylefactory) · [API](https://github.com/EnithV/stylefactory-backend) · [Swagger](https://stylefactoryapi.onrender.com/swagger-ui/index.html) · [Live demo](https://enithv.github.io/stylefactory/)
 
 ---
 
