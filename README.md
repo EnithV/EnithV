@@ -16,7 +16,7 @@ I also work on data and AI projects: LLM evaluation pipelines, interactive dashb
 ## 💡 What Makes Me Different
 
 - ☕ **Full‑Stack Java in production-style apps** — Spring Boot APIs, JWT auth, SQL, and frontend integration  
-- 🎓 **Generation Colombia capstone** — Style Factory: reservation management system with catalog and role-based admin  
+- 🎓 **Generation Colombia capstone** — Style Factory: Java/Spring Boot reservation system with catalog and role-based admin  
 - 🏗️ **Civil Engineer + Systems Thinking** — real‑world constraints, not just code  
 - 📊 **Data & AI** — dashboards, LLM pipelines, validation, and decision-ready insights  
 - ⚙️ **Automation & Systems Design** — modular architectures and workflow design  
@@ -64,7 +64,7 @@ I also work on data and AI projects: LLM evaluation pipelines, interactive dashb
 
 ### 🏆 Key Achievements
 
-- ☕ **Style Factory** — reservation management system (Generation Colombia capstone, Spring Boot API + live demo)  
+- ☕ **Style Factory** — Full-Stack Java capstone (Java 17, Spring Boot API, PostgreSQL, live demo)  
 - ☕ REST APIs with Java, Spring Boot, JWT & SQL  
 - 🤖 LLM evaluation & bilingual content pipelines  
 - 📊 Data dashboards and interactive analytics  
@@ -114,7 +114,7 @@ I also work on data and AI projects: LLM evaluation pipelines, interactive dashb
 **Generation Colombia capstone · Full-Stack Java**
 
 - 🎯 Reservation management: online booking, service catalog & role-based admin  
-- ☕ Spring Boot REST API with JWT authentication  
+- ☕ **Java 17** · Spring Boot REST API (JWT, JPA, PostgreSQL/Supabase)  
 - 🌐 Modular frontend (JavaScript, Bootstrap 5) — [Frontend](https://github.com/EnithV/stylefactory) · [API](https://github.com/EnithV/stylefactory-backend) · [Live demo](https://enithv.github.io/stylefactory/)
 
 ---
