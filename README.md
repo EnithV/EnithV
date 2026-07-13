@@ -1,13 +1,13 @@
 # Gicela Vargas
 
-> **Full‑Stack Java Developer | Civil Engineer | Data &AI Specialist**  
+> **Full-Stack Java Developer | Civil Engineer | Data & AI Specialist**  
 > *"Try Just One More Time"*
 
 ---
 
 ## About Me
 
-Full-Stack Java Developer and Civil Engineering professional. I have knowledge in backend and frontend development, including building REST APIs with Java and Spring Boot, as well as developing interfaces with JavaScript, HTML, and CSS. I have participated in technology projects, such as evaluating and optimizing large language models (LLMs), strengthening skills in logic, data validation, and complex problem-solving. I bring analytical thinking, the ability to structure solutions, and adaptability in technology environments. 
+Full-Stack Java Developer with experience building web applications using Spring Boot, PostgreSQL, and JavaScript, and Python for data analysis and machine learning. Civil engineering background with a disciplined, analytical mindset: validating data, debugging systems, and solving hard problems. Recently completed **Generation Colombia** (Full-Stack Java) and worked on LLM evaluation projects focused on prompt design, reproducibility, and bias detection. Curious, self-driven, and passionate about learning new technologies.
 
 ---
 
@@ -23,12 +23,12 @@ Full-Stack Java Developer and Civil Engineering professional. I have knowledge i
 
 ### 🎯 What I Do
 
-- ☕ **Backend (Java, Spring Boot, REST APIs, SQL)**  
+- ☕ **Backend (Java, Spring Boot, REST APIs, JPA, SQL)**  
 - 🏗️ Infrastructure Compliance  
 - 📊 Data Analytics & Visualization  
 - ⚙️ Systems & Automation  
 - 🤖 AI Systems & Pipelines  
-- 🌎 Global Collaboration  
+- 🌎 Global Collaboration
 
 ---
 
@@ -42,11 +42,12 @@ Full-Stack Java Developer and Civil Engineering professional. I have knowledge i
 
 ### 🎯 Current Focus Areas
 
-- ☕ **Java & Spring Boot** — REST APIs, backend architecture  
-- 🔗 **SQL & Database Integration**  
-- 🧩 **Frontend with HTML, CSS, JavaScript**  
+- ☕ **Java & Spring Boot** — REST APIs, JPA, JWT, backend architecture  
+- 🔗 **SQL & Database Integration** (PostgreSQL, MongoDB)  
+- 🧩 **Frontend with HTML, CSS, JavaScript, Bootstrap**  
+- 🐳 **Docker & cloud-friendly deployments** (Render, Supabase)  
 - ⚙️ Automation Systems & Workflows  
-- 🧠 Structured problem‑solving  
+- 🧠 Structured problem-solving
 
 ---
 
@@ -79,25 +80,35 @@ Full-Stack Java Developer and Civil Engineering professional. I have knowledge i
       • Java<br>
       • Spring Boot<br>
       • REST APIs<br>
+      • JPA<br>
       • JWT<br>
       • PostgreSQL<br>
+      • MongoDB<br>
       • SQL<br>
       • HTML<br>
-      • CSS
+      • CSS<br>
+      • Bootstrap
     </td>
     <td width="33%">
       • JavaScript<br>
       • Python<br>
       • Pandas<br>
       • Scikit-learn<br>
-      • Streamlit
+      • Streamlit<br>
+      • Docker<br>
+      • JUnit<br>
+      • Mockito<br>
+      • Swagger
     </td>
     <td width="33%">
       • Power BI<br>
       • Looker Studio<br>
       • Plotly<br>
+      • Render<br>
+      • Supabase<br>
       • Git<br>
       • GitHub<br>
+      • CI/CD<br>
       • VS Code
     </td>
   </tr>
@@ -129,9 +140,9 @@ Full-Stack Java Developer and Civil Engineering professional. I have knowledge i
 
 ### 📊 [Aurelion – End-to-End Data System](https://github.com/EnithV/PROYECTO-AURELION)
 
-- 📊 Full data pipeline (EDA → modeling)  
-- 🤖 Regression, classification, clustering  
-- 📈 Statistical analysis & insights  
+- 📊 Full data pipeline (EDA → modeling → visualization)  
+- 🤖 Trained and compared 9 ML models with 5-fold CV (R² 0.99 Random Forest; 88.4% classification accuracy)  
+- 📈 K-Means clustering (3 client segments) and automated documentation for traceability
 
 ---
 
@@ -183,7 +194,7 @@ Full-Stack Java Developer and Civil Engineering professional. I have knowledge i
 ## 🌍 Languages
 
 - 🇪🇸 Spanish — Native  
-- 🇺🇸 English — Fluent  
+- 🇺🇸 English — B2
 
 ---
 
